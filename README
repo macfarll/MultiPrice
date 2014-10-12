@@ -1,0 +1,1 @@
+This program is iterates through multiple runs of PriceTI with various parameters, and finally returns the best output, and the parameters used to generate that output. 
